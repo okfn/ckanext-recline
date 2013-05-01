@@ -23,6 +23,6 @@ setup(
     entry_points=\
     """
     [ckan.plugins]
-    recline=ckanext.recline.plugin:ReclinePreview
+    recline_preview=ckanext.recline.plugin:ReclinePreview
     """,
 )
